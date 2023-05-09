@@ -1,0 +1,14 @@
+Summary: The [Market Trading Hours] section is displayed in English after changing any language 
+ 
+ Severity: Minor
+
+STR: 
+1. Navigate to capital.com
+2. Select any language
+3. Scroll to the [Карта активности рынков] section on the main page
+4. Click on the any [Партнерская программа] button
+5. Pay attention to the [Market Trading Hours] section
+
+Expected Result: The [Market Trading Hours] section is displayed in the selected language
+
+Actual Result: The [Market Trading Hours] section is displayed in English after changing any language
